@@ -1,6 +1,6 @@
 ✏️ **AIFFEL PROJECT**  
 
-|**번호**|**프로젝트명**|**프로젝트개요**|
+|**번호**|**프로젝트명**|**분류**|
 |:---|:---|:---|
 |E-01|[Iris의 세 가지 품종, 분류해볼 수 있겠어요?](https://nbviewer.org/github/9645258/aiffel/blob/main/01_exploration/%5BE-01%5Dexploration.ipynb)|CLASSIFICATION|
 |E-02|[날씨 좋은 월요일 오후 세 시, 자전거 타는 사람은 몇 명?](https://nbviewer.org/github/9645258/aiffel/blob/main/01_exploration/%5BE-02%5Dexploration.ipynb)|REGRESSION|
