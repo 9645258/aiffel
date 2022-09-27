@@ -21,3 +21,8 @@
 |GD-02|[멋진 단어사전 만들기](https://nbviewer.org/github/9645258/aiffel/blob/main/02_goingdeeper/01_nlp/%5BGD-02%5Dnlp.ipynb)|NLP SENTENCEPIECE|
 |GD-04|[뉴스 카테고리 다중분류](https://nbviewer.org/github/9645258/aiffel/blob/main/02_goingdeeper/01_nlp/%5BGD-04%5Dnlp.ipynb)|NLP CLASSIFICATION|
 |GD-06|[임베딩 내 편향성 알아보기](https://nbviewer.org/github/9645258/aiffel/blob/main/02_goingdeeper/01_nlp/%5BGD-06%5Dnlp.ipynb)|NLP EMBEDDING & BIAS|
+|GD-08|[]()||
+|GD-10|[]()||
+|GD-12|[]()||
+|GD-14|[]()||
+|GD-16|[]()||
