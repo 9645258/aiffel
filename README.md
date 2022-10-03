@@ -18,11 +18,11 @@
 |E-15|[Movielens 영화 추천 실습](https://nbviewer.org/github/9645258/aiffel/blob/main/01_exploration/%5BE-15%5Dexploration.ipynb)|RECOMMENDER SYSTEM MF|
 |E-16|[Segmentation map으로 도로 이미지 만들기](https://nbviewer.org/github/9645258/aiffel/blob/main/01_exploration/%5BE-16%5Dexploration.ipynb)|cGAN|
 |E-17|[Movielens 영화 SBR](https://nbviewer.org/github/9645258/aiffel/blob/main/01_exploration/%5BE-17%5Dexploration.ipynb)|RECOMMENDER SYSTEM GRU4REC|
-|GD-02|[멋진 단어사전 만들기](https://nbviewer.org/github/9645258/aiffel/blob/main/02_goingdeeper/01_nlp/%5BGD-02%5Dnlp.ipynb)|SENTENCEPIECE|
-|GD-04|[뉴스 카테고리 다중분류](https://nbviewer.org/github/9645258/aiffel/blob/main/02_goingdeeper/01_nlp/%5BGD-04%5Dnlp.ipynb)|NLP CLASSIFICATION|
-|GD-06|[임베딩 내 편향성 알아보기](https://nbviewer.org/github/9645258/aiffel/blob/main/02_goingdeeper/01_nlp/%5BGD-06%5Dnlp.ipynb)|EMBEDDING & BIAS|
-|GD-08|[Seq2seq으로 번역기 만들기](https://nbviewer.org/github/9645258/aiffel/blob/main/02_goingdeeper/01_nlp/%5BGD-08%5Dnlp.ipynb)|ATTENTIONAL SEQ2SEQ|
-|GD-10|[]()||
-|GD-12|[]()||
-|GD-14|[]()||
-|GD-16|[]()||
+|GD-02|[멋진 단어사전 만들기](https://nbviewer.org/github/9645258/aiffel/blob/main/02_nlp/%5BGD_02%5Dnlp.ipynb)|SENTENCEPIECE|
+|GD-04|[뉴스 카테고리 다중분류](https://nbviewer.org/github/9645258/aiffel/blob/main/02_nlp/%5BGD_04%5Dnlp.ipynb)|NLP CLASSIFICATION|
+|GD-06|[임베딩 내 편향성 알아보기](https://nbviewer.org/github/9645258/aiffel/blob/main/02_nlp/%5BGD_06%5Dnlp.ipynb)|EMBEDDING & BIAS|
+|GD-08|[Seq2seq으로 번역기 만들기](https://nbviewer.org/github/9645258/aiffel/blob/main/02_nlp/%5BGD_08%5Dnlp.ipynb)|ATTENTIONAL SEQ2SEQ|
+|GD-10|[Transformer로 번역기 만들기](https://nbviewer.org/github/9645258/aiffel/blob/main/02_nlp/%5BGD_10%5Dnlp.ipynb)|TRANSFORMER|
+|GD-12|[번역가는 대화에도 능하다](https://nbviewer.org/github/9645258/aiffel/blob/main/02_nlp/%5BGD_12%5Dnlp.ipynb)|DATA ARGUMENTATION & TRANSFORMER|
+|GD-14|[BERT pretrained model 제작](https://nbviewer.org/github/9645258/aiffel/blob/main/02_nlp/%5BGD_14%5Dnlp.ipynb)|BERT|
+|GD-16|[HuggingFace 커스텀 프로젝트 만들기](https://nbviewer.org/github/9645258/aiffel/blob/main/02_nlp/%5BGD_16%5Dnlp.ipynb)|HUGGING FACE(BERT & RoBERTa)|
