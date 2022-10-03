@@ -1,5 +1,3 @@
-✏️ **AIFFEL PROJECT**  
-
 |**번호**|**프로젝트명**|**분류**|
 |:---|:---|:---|
 |E-01|[Iris의 세 가지 품종, 분류해볼 수 있겠어요?](https://nbviewer.org/github/9645258/aiffel/blob/main/01_exploration/%5BE-01%5Dexploration.ipynb)|CLASSIFICATION|
