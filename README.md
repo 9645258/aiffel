@@ -23,4 +23,4 @@
 |GD-10|[Transformer로 번역기 만들기](https://nbviewer.org/github/9645258/aiffel/blob/main/02_nlp/%5BGD_10%5Dnlp.ipynb)|TRANSFORMER|
 |GD-12|[번역가는 대화에도 능하다](https://nbviewer.org/github/9645258/aiffel/blob/main/02_nlp/%5BGD_12%5Dnlp.ipynb)|DATA ARGUMENTATION & TRANSFORMER|
 |GD-14|[BERT pretrained model 제작](https://nbviewer.org/github/9645258/aiffel/blob/main/02_nlp/%5BGD_14%5Dnlp.ipynb)|BERT|
-|GD-16|[HuggingFace 커스텀 프로젝트 만들기](https://nbviewer.org/github/9645258/aiffel/blob/main/02_nlp/%5BGD_16%5Dnlp.ipynb)|HUGGING FACE(BERT & RoBERTa)|
+|GD-16|[HuggingFace 커스텀 프로젝트 만들기](https://nbviewer.org/github/9645258/aiffel/blob/main/02_nlp/%5BGD_16%5Dnlp.ipynb)|HUGGING FACE (BERT & RoBERTa)|
